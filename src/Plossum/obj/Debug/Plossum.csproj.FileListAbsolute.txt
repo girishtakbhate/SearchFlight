@@ -1,0 +1,26 @@
+D:\SearchPlane\plossum-commandline\bin\Plossum CommandLine.xml
+D:\SearchPlane\plossum-commandline\bin\Plossum CommandLine.dll
+D:\SearchPlane\plossum-commandline\bin\Plossum CommandLine.pdb
+D:\SearchPlane\plossum-commandline\bin\Plossum CommandLine.dll.CodeAnalysisLog.xml
+D:\SearchPlane\plossum-commandline\bin\Plossum CommandLine.dll.lastcodeanalysissucceeded
+D:\SearchPlane\plossum-commandline\src\Plossum\obj\Debug\Plossum.csprojResolveAssemblyReference.cache
+D:\SearchPlane\plossum-commandline\src\Plossum\obj\Debug\Plossum.Resources.CommandLineStrings.resources
+D:\SearchPlane\plossum-commandline\src\Plossum\obj\Debug\Plossum.Resources.PlossumStrings.resources
+D:\SearchPlane\plossum-commandline\src\Plossum\obj\Debug\Plossum.csproj.GenerateResource.cache
+D:\SearchPlane\plossum-commandline\src\Plossum\obj\Debug\Plossum.csproj.CoreCompileInputs.cache
+D:\SearchPlane\plossum-commandline\src\Plossum\obj\Debug\Plossum.csproj.CopyComplete
+D:\SearchPlane\plossum-commandline\src\Plossum\obj\Debug\Plossum CommandLine.dll
+D:\SearchPlane\plossum-commandline\src\Plossum\obj\Debug\Plossum CommandLine.pdb
+D:\SearchFlight\SearchFlight\bin\Plossum CommandLine.xml
+D:\SearchFlight\SearchFlight\bin\Plossum CommandLine.dll
+D:\SearchFlight\SearchFlight\bin\Plossum CommandLine.pdb
+D:\SearchFlight\SearchFlight\bin\Plossum CommandLine.dll.CodeAnalysisLog.xml
+D:\SearchFlight\SearchFlight\bin\Plossum CommandLine.dll.lastcodeanalysissucceeded
+D:\SearchFlight\SearchFlight\src\Plossum\obj\Debug\Plossum.csprojResolveAssemblyReference.cache
+D:\SearchFlight\SearchFlight\src\Plossum\obj\Debug\Plossum.Resources.CommandLineStrings.resources
+D:\SearchFlight\SearchFlight\src\Plossum\obj\Debug\Plossum.Resources.PlossumStrings.resources
+D:\SearchFlight\SearchFlight\src\Plossum\obj\Debug\Plossum.csproj.GenerateResource.cache
+D:\SearchFlight\SearchFlight\src\Plossum\obj\Debug\Plossum.csproj.CoreCompileInputs.cache
+D:\SearchFlight\SearchFlight\src\Plossum\obj\Debug\Plossum.csproj.CopyComplete
+D:\SearchFlight\SearchFlight\src\Plossum\obj\Debug\Plossum CommandLine.dll
+D:\SearchFlight\SearchFlight\src\Plossum\obj\Debug\Plossum CommandLine.pdb
